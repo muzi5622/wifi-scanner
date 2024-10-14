@@ -34,6 +34,9 @@ To run the Wi-Fi Device Logger, ensure you have the following installed on your 
     ```bash
     brew install arp-scan
     ```
+## Screenshot
+Text File (Lest side) and Terminal (Right side)
+![image](https://github.com/user-attachments/assets/7954ce2c-1b9a-4403-a179-e1d4678b6da0)
 
 ## Installation
 
